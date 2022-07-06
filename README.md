@@ -1,5 +1,5 @@
 # notas 
-Este es mi primer programa en Node.js curso Udemy
+Este es mi primer programa en Node.js 
 
 ```
 Options:
