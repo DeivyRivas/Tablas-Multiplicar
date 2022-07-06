@@ -1,0 +1,8 @@
+#aqui se especifica los archivos a ignorar que no se utilicen en el proyecto Ej las tablas que se crean
+
+#ignora todos loa archivos txt
+salida/*.txt 
+
+#ignora los modulos de node o paquetes de terceros
+node_modules/
+
